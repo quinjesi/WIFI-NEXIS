@@ -54,7 +54,7 @@ To run this script, you'll need Python 3 and a few additional packages installed
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
